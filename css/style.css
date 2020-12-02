@@ -1,0 +1,148 @@
+body{
+    margin: 0;
+    padding:0;
+    position: relative;
+}
+.icon-area-1 ul{
+    list-style: none;
+    font-size: 40px;
+    margin-top: 20px;
+    text-align: center;
+}
+.icon-area-1 ul li{
+    display: inline-block;
+    padding: 10px;
+    margin: auto;
+    font-size: 40px;
+}
+.icon-area-1{
+    width: 60%;
+    margin: auto;
+}
+.icon-area-1 ul li{
+    display: inline-block;
+    padding: 10px;
+}
+.icon-area-1 ul li:hover{
+    display: inline-block;
+    padding: 10px;
+    background: chartreuse;
+    border-radius: 60px;
+    margin: auto;
+    margin: auto;
+}
+/* a:hover{
+    font-size: 70px; */
+}
+.icon-area-2 ul{
+    list-style: none;
+}
+.icon-area-2{
+    max-width: 100%;
+    margin-left: 366px;
+}
+.icon-area-2 ul li i{
+    font-size: 50px;
+    color: red;
+    background: black;
+    border-radius: 30px;
+}
+.icon-area-2 ul li i:hover{
+    font-size: 80px;
+    color: red;
+    cursor: pointer;
+    background: white;
+}
+.icon-area-2 ul li{
+    display: inline-block;
+}
+.icon-area-2 li{
+    transform: rotate(20deg);
+}
+li:hover{
+    transform: rotate(0deg);
+}
+.icon-area-3 ul li a i{
+    color: blue;
+    font-size: 60px;
+}
+.icon-area-3 ul li{
+    list-style: none;
+    display: inline-block;
+}
+.icon-area-1 li{
+    transform: rotate(20deg);
+}
+.icon-area-1 li{
+    transform: rotate(20deg);
+}
+.icon-area-1 li:hover{
+    transform: rotate(0deg);
+}
+.icon-area-3{
+    width: 50%;
+    margin: auto;
+}
+.icon-area-3 li{
+    transform: rotate(-30deg);
+}
+.icon-area-3 li:hover{
+    transform: rotate(30deg);
+    background: linear-gradient(rgb(255, 0, 0),green);
+    border-radius: 50%;
+}
+.icon-area-3{
+    margin-top: 30px;
+}
+.icon-area-3 li a i{
+    margin-left: 10px;
+}
+.icon-area-4{
+    width: 60%;
+    text-align: center;
+    margin-left: 260px;
+}
+.icon-area-4 ul{
+    list-style: none;
+    font-size: 60px;
+}
+.icon-area-4 ul li a i{
+    font-size: 70px;
+}
+.icon-area-4 ul li a i:hover{
+    font-size: 70px;
+    visibility: hidden;
+}
+.icon-area-4 ul li{
+    display: inline-block;
+}
+.icon-area-5{
+   
+    margin-left:310px ;
+}
+.icon-area-5 ul{
+    list-style: none;
+    font-size: 60px;
+
+}
+.icon-area-5 ul li{
+    list-style: none;
+    display: inline-block;
+}
+.icon-area-5 ul li a i{
+    color: white;
+}
+.icon-area-5 ul li a i:hover{
+    color: yellowgreen ;
+}
+.heading{
+    position: absolute;
+    left: 590px;
+    top: 390px;
+}
+.arrow{
+    font-size: 50px;
+    position: absolute;
+    left: 759px;
+    top: 398px;
+}
